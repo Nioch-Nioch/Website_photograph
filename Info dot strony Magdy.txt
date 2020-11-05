@@ -1,0 +1,6 @@
+Zakładki:
+1. startowa
+2. o mnie
+3. portfolio
+4. oferta
+5. kontakt
